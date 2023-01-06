@@ -1,0 +1,4 @@
+Final Specific:
+['Sunny', 'Warm', '?', 'Strong', '?', '?']
+Final General:
+[['Sunny', '?', '?', '?', '?', '?'], ['?', 'Warm', '?', '?', '?', '?']]
